@@ -1,0 +1,40 @@
+# Kickstarting with Excel
+
+## Overview of Project: 
+The project is to determine factors lead to a successful campaign. Do the launch date of the campaign or the goal affect the outcome of the campaign 
+
+### Purpose
+
+The purpose of the analysis is to help determine when it is best to launch the campaign and what is the proper amount requested for a successful fundraiser 
+ 
+## Analysis and Challenges
+
+The analysis looked at campaign based theater on the one hand by launch date and campaign based on a subset of theater by goals. Theater includes both musical , places in adddition to plays. 
+This analysis did not consider the outcomes for places and musical.  
+
+
+### Analysis of Outcomes Based on Launch Date
+Successful Theater campaign should launched from April to July with the peek of the season being June. 
+
+### Analysis of Outcomes Based on Goals
+
+ Overall goal should be to raise no more than $1000 as that would translate high probability that the funds will get collected (76%) 
+
+### Challenges and Difficulties Encountered
+countifs: the details are important so data are not excluded from the count. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date? 
+May is the best month to generate the most successful outcomes
+No campaign should be launched in December
+
+- What can you conclude about the Outcomes based on Goals?
+goals should be set at no more than $1000.
+Goal betweeen $35000 and $45000 are possible but further investigations are required to validate factors being this opporunity. 
+  
+- What are some limitations of this dataset?
+Variety of countries making it dificult to target a population and audience that can support the campaigns successfuly.     
+
+- What are some other possible tables and/or graphs that we could create?
+graph for outcomes for Places and Musical. This would help get a full picture of the outcomes on goals for theater.  
